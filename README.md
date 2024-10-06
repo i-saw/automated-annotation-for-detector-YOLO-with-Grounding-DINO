@@ -4,7 +4,7 @@
 
 ![image](https://github.com/i-saw/automated-annotation-for-detector-YOLO-with-Grounding-DINO/blob/main/anno_pizza.png)
 
-Этот блокнот [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mWJi_5Y0gu-7gMxeaZfEFKXHc_DY3m26?usp=sharing) позволяет аннотировать изображения по заданному текстовому запросу. Данный инструмент будет полезен для разметки датасета изображений для детекции YOLO.
+Этот блокнот [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mWJi_5Y0gu-7gMxeaZfEFKXHc_DY3m26?usp=sharing) позволяет автоматически аннотировать изображения по заданному текстовому запросу с помощью Grounding DINO. Данный инструмент будет полезен для разметки датасета изображений для детекции YOLO.
 
 
 ## Смотри также
