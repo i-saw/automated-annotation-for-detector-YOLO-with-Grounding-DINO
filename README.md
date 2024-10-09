@@ -10,4 +10,5 @@
 ## Смотри также
 
 1.В блокноте реализована функция для автоматической загрузки изображений с интернета по текстовому запросу: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1StZqTL0CBIHZLlRNvSV66hr11Z2QvyDD?usp=sharing)
+
 2.Очистка датасета от дубликатов и других негодных изображений : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ALurDsX6qaVWztJWjHUh2181YXjS2_fG?usp=sharing)
